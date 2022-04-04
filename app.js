@@ -21,6 +21,6 @@ function jkk(){
     }else{
         alert("Please enter a vaild Email ID");
     }
-    console.log("Message:"+message);
+    console.log("Message: "+message);
 
 }
