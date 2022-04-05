@@ -6,6 +6,7 @@ function jkk(){
     // var error_message = document.getElementById("err_mess").value;
     var mail1= /^([a-zA-Z0-9\.-]+)@([a-zA-Z0-9\.-]+).([a-z]{2,8})$/;
     var phnno1=/^\(?(\d{3})\)?[- ]?(\d{3})[- ]?(\d{4})$/;
+    
     if(name.length < 4){
         alert("Please enter the vaild name...");
     }else{
